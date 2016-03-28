@@ -12,4 +12,5 @@ class {
   "setup":
     stage => prepare;
   "golang":;
+  "protobuf":;
 }
